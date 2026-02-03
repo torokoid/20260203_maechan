@@ -187,7 +187,7 @@ p.note { display: none; }
 <h2><span class="yellow">メー・ファー・ルアン王立大学の門に左折で入ります</span></h2>
 <a href="20260203_019.png" target="_blank"><img src="20260203_019.png" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">双子部の山をバックに西からの日差しに映える本校舎は、完全に定点観測</span></h2>
+<h2><span class="yellow">双こぶの山をバックに西からの日差しに映える本校舎は、完全に定点観測</span></h2>
 <a href="20260203_020.png" target="_blank"><img src="20260203_020.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">王立大学プール管理棟の花壇のお花が咲き始めてます</span></h2>
