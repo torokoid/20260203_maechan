@@ -228,7 +228,7 @@ p.note { display: none; }
 <a href="20260203_017.JPG" target="_blank"><img src="20260203_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260203_018.JPG" target="_blank"><img src="20260203_018.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">満月の撮影は難しすぎるので、Xの有名人の画像をリンクしておきます<br>一人目はKAGAYAさん</span></h2>
+<h2><span class="yellow">満月の撮影は難しすぎるので、Xの有名人の画像をリンクしておきます<br>一人目はKAGAYAさん<br>両方とも画像のクリックでご本人達のX投稿に飛びます</span></h2>
 <a href="https://x.com/KAGAYA_11949/status/2018250582608527494?s=20" target="_blank"><img src="20260203_022.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">二人目は月世界への招待さん</span></h2>
