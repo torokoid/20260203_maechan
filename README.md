@@ -283,6 +283,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 
 <h2><span class="yellow">もう1つは、Tracy Chapman Greatest Hits Full Album - Best Songs Of Tracy Chapman - Tracy Chapman 2025</span></h2>
+<div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wtCjvViS8SA?si=vnZ4Uthrs_jJ3nj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
@@ -349,7 +350,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 <br><br><br><br><br><br>
 
 <!--本体はここまで-->
-
+</div>
 
 <!--画面に空白地帯を作って、背景が見えるようにしています-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
